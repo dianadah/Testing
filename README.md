@@ -1,3 +1,3 @@
 # Testing
 
-<img src="./217_1.jpg" width="1000">
+<img src="./217_1.jpg" width="100%">
