@@ -1,7 +1,3 @@
 # Testing
 
-![image](217_1.jpg)
-
-![image](217_2.jpg)
-
-![image](217_3.jpg)
+<img src="./217_1.jpg" width="1000" height="650">
